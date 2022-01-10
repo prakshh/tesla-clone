@@ -2,12 +2,12 @@
 
 ![Tesla1](public/images/Screenshot-from-2022-01-10-22-58-57.png)
 ![Tesla2](public/images/Screenshot-from-2022-01-10-22-59-11.png)
-![Tesla1](public/images/Screenshot-from-2022-01-10-22-59-26.png)
-![Tesla2](public/images/Screenshot-from-2022-01-10-22-59-33.png)
-![Tesla1](public/images/Screenshot-from-2022-01-10-22-59-55.png)
-![Tesla2](public/images/Screenshot-from-2022-01-10-22-00-05.png)
-![Tesla1](public/images/Screenshot-from-2022-01-10-22-00-12.png)
-![Tesla2](public/images/Screenshot-from-2022-01-10-22-00-36.png)
+![Tesla3](public/images/Screenshot-from-2022-01-10-22-59-26.png)
+![Tesla4](public/images/Screenshot-from-2022-01-10-22-59-33.png)
+![Tesla5](public/images/Screenshot-from-2022-01-10-22-59-55.png)
+![Tesla6](public/images/Screenshot-from-2022-01-10-22-00-05.png)
+![Tesla7](public/images/Screenshot-from-2022-01-10-22-00-12.png)
+![Tesla8](public/images/Screenshot-from-2022-01-10-22-00-36.png)
 
 
 ## Introduction
